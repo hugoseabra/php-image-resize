@@ -1,5 +1,6 @@
 {
     "name": "eventviva/php-image-resize",
+    "version": "dev",
     "description": "PHP class to re-size and scale images",
     "keywords": ["php", "image", "resize","scale"],
     "type": "library",
